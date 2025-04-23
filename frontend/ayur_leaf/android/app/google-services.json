@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1070524752875",
+    "firebase_url": "https://ayurdb-2094d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ayurdb-2094d",
+    "storage_bucket": "ayurdb-2094d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070524752875:android:1ce5e3edbdabec2bf52fae",
+        "android_client_info": {
+          "package_name": "com.example.ayur_leaf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070524752875-jd95840qnk1tlt0o9ure2bd7uceh680u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWyYL1GiFHtGFTLlsoFBUD3EWDYMBTHyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070524752875-jd95840qnk1tlt0o9ure2bd7uceh680u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1070524752875-955pj70msuhcmu44hu8eh2288hhvfloq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ayurLeaf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070524752875:android:b9bafe129ba22547f52fae",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070524752875-jd95840qnk1tlt0o9ure2bd7uceh680u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWyYL1GiFHtGFTLlsoFBUD3EWDYMBTHyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070524752875-jd95840qnk1tlt0o9ure2bd7uceh680u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1070524752875-955pj70msuhcmu44hu8eh2288hhvfloq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ayurLeaf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

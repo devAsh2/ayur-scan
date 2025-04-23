@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1070524752875-955pj70msuhcmu44hu8eh2288hhvfloq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1070524752875-955pj70msuhcmu44hu8eh2288hhvfloq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD0fMZD7j-WT76KOOr8nadNFV9dYgX7twU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1070524752875</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ayurLeaf</string>
+	<key>PROJECT_ID</key>
+	<string>ayurdb-2094d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ayurdb-2094d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1070524752875:ios:40386a3874a8c64ff52fae</string>
+	<key>DATABASE_URL</key>
+	<string>https://ayurdb-2094d-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
